@@ -2,7 +2,7 @@
 #
 # Disclaimer
 #
-# Kether.org is a software company that is producing the KETHER software protocol. This software may, among other things, enable those who deploy it to launch a blockchain, or decentralized applications with various features.It will be the sole responsibility of third parties, the community, and/or those who wish to become kether producers, to adopt and implement KETHER in the manner they choose, with the features they choose, and/or providing the services they choose. Kether.org does not guarantee that anyone will adopt or implement such features, or provide such services, or that the KETHER software will be adopted and implemented in any way.
+# Kether.org is a software company that is producing the KETHER software protocol. This software may, among other things, enable those who deploy it to launch a blockchain, or decentralized applications with various features. It will be the sole responsibility of third parties, the community, and/or those who wish to become kether producers, to adopt and implement KETHER in the manner they choose, with the features they choose, and/or providing the services they choose. Kether.org does not guarantee that anyone will adopt or implement such features, or provide such services, or that the KETHER software will be adopted and implemented in any way.
 # Kether.org does not endorse any third party or its products or services, even if they are mentioned herein. Kether.org is not responsible for any linked content.
 # For more information, please visit https://github.com/kether-org/KETHER. 
 # Kether.org does not provide financial support to anyone seeking to become a kether producer on any version of the KETHER platform that may be adopted or implemented.
