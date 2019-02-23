@@ -2,7 +2,7 @@
 #
 # Disclaimer
 #
-# Kether.org is a software company that is producing the KETHER software as a free, open-source protocol. 
+# Kether.org is a software company that is producing the KETHER software protocol. 
 # This software may, among other things, enable those who deploy it to launch a blockchain, or decentralized applications with various features. 
 # Kether.org does not guarantee that anyone will adopt or implement such features, or provide such services, or that the  KETHER software will be adopted and implemented in any way. Kether.org does not endorse any third party or its products or services, even if they are mentioned herein. Kether.org is not responsible for any linked content.
 # For more information, please visit https://github.com/kether-org/KETHER. 
